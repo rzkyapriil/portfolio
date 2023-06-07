@@ -203,7 +203,7 @@ import {
       ],
       image: antivirusplusgame,
       link_image: itchio,
-      source_code_link: "https://bungazalia.itch.io/antivirusplusgame",
+      source_code_link: "https://bungazalia.itch.io/antivirusplus",
     },
     {
       name: "Travel Today Web",
