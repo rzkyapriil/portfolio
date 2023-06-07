@@ -193,7 +193,7 @@ import {
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "C#",
+          name: "csharp",
           color: "green-text-gradient",
         },
         {
@@ -211,16 +211,20 @@ import {
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
         {
-          name: "react",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "css",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "javascript",
           color: "pink-text-gradient",
+        },
+        {
+          name: "bootstrap",
+          color: "blue-text-gradient",
         },
       ],
       image: travelweb,
@@ -233,21 +237,21 @@ import {
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
         {
-          name: "nextjs",
+          name: "reactjs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
-          color: "green-text-gradient",
+          name: "tailwindcss",
+          color: "pink-text-gradient",
         },
         {
-          name: "css",
-          color: "pink-text-gradient",
+          name: "threejs",
+          color: "green-text-gradient",
         },
       ],
       image: portfolioweb,
       link_image: github,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rzkyapriil/portfolio",
     },
   ];
   
